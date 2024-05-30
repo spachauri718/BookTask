@@ -46,7 +46,7 @@ Prerequisites
 Installation
   Clone the repository:
   ```
-  git clone https://github.com/BookTask.git
+  git clone https://github.com/spachauri718/BookTask.git
   cd bookstore
   npm install
 
